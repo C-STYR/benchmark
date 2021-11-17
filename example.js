@@ -1,6 +1,6 @@
 import Benchmark from "benchmark";
 
-import { bigstring } from "./BigString.js"
+import { bigstring } from "./bigstring.js"
 
 //Sandy's Effort
 const getUrls = (input) => {
